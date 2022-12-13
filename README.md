@@ -1,5 +1,5 @@
 # s3-bucket
-creating an s3 bucket in an aws management
+creating an s3 bucket in an aws management and uploading a file into it
 
 
 # Create a Bucket
@@ -67,3 +67,5 @@ STEP 1:
 
 •	Upload file
 ![upload_file_html](https://user-images.githubusercontent.com/94189602/206505993-b3b472fb-41b0-410f-bdd9-8e3566ce9cce.PNG)
+
+#NOW WE HAVE SUCCESSFULLY CREATED AN S3 BUCKET AND UPLOADED A FILE INTO IT
