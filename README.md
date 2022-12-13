@@ -2,9 +2,11 @@
 creating an s3 bucket in an aws management and uploading a file into it
 
 
-# Create a Bucket
+
 
 STEP 1:
+
+# Create a Bucket
 
 .  LOGIN INTO YOUR AWS CONSOLE
 
@@ -45,6 +47,9 @@ STEP 1:
 •	Successfully created
 
   ![successful_created](https://user-images.githubusercontent.com/94189602/206505259-ec892a6a-a393-470d-81a0-c719a5025422.PNG)
+  
+  STEP2: 
+# UPLOAD A FILE
                           
 
 •	Now go back the dashboard and  click on your bucket name mine is “project102”
